@@ -7,6 +7,9 @@
 ## airbnb-data-analysis
 This repo contains the try-outs & implementations of the airbnb data analysis project, which is part of the Udacity Data Scientist Program.
 
+Bonus: I have published an article on Medium [here](
+https://medium.com/@quchen.ch/data-analysis-on-airbnb-data-7e54e97f4476). Feel free to check it out !
+
 ## Table of contents
 
 - [Motivation](#motivation)
